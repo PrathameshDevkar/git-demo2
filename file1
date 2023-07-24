@@ -1,3 +1,8 @@
 this is test5
+<<<<<<< HEAD
 this line is added in local repo
 this is second line added 
+=======
+this is modified in remote repos.
+
+>>>>>>> d95b028508dc200eb33cbb8bc99456746a3f8547
